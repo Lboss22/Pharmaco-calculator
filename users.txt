@@ -1,7 +1,1 @@
-Nom: Loic, Email: loicnikiema71@gmail.com, Dose: undefined, Clairance: undefined, Demi-vie: undefined, Biodisponibilité: undefined
-Nom: Loic, Email: loicnikiema71@gmail.com, Dose: undefined, Clairance: undefined, Demi-vie: undefined, Biodisponibilité: undefined
-Nom: Loic, Email: loicnikiema71@gmail.com, Dose: undefined, Clairance: undefined, Demi-vie: undefined, Biodisponibilité: undefined
-Nom: Bob, Email: loicnikiema71@gmail.com, Dose: undefined, Clairance: undefined, Demi-vie: undefined, Biodisponibilité: undefined
-Nom: MARIE, Email: loicnikiema71@gmail.com, Dose: undefined, Clairance: undefined, Demi-vie: undefined, Biodisponibilité: undefined
-Nom: Christmi tiendrebeogo, Email: christmitiendrebeogo@gmail.com, Dose: undefined, Clairance: undefined, Demi-vie: undefined, Biodisponibilité: undefined
-Nom: Christmi tiendrebeogo, Email: christmitiendrebeogo@gmail.com, Dose: undefined, Clairance: undefined, Demi-vie: undefined, Biodisponibilité: undefined
+
